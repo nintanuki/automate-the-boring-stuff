@@ -16,6 +16,6 @@ But I was having too much fun and decided to experiment and make more bots. I ma
 
 So far Carl and Negan tend to win the most, and therefore they have the best strategy. They roll until they get 2 shot guns (unless they have 0 brains they keep going) and if they have 1 shotgun they keep going unless they have at least 6 (Negan) or 7 (Carl) brains.
 
-Sometimes Maggie has the most wins at at least 5 brais. At the moment Lizzie is the only bot that makes decisions based on the color of the dice.
+Sometimes Maggie has the most wins at at least 5 brains. At the moment Lizzie is the only bot that makes decisions based on the color of the dice.
 
 To run this code you must install the zombiedice module by typing `pip install zombiedice` in the terminal.
